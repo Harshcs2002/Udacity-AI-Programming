@@ -1,1 +1,1 @@
-# UUdacity AI Programming with Python Nanodegree Projects
+# Udacity AI Programming with Python Nanodegree Projects
